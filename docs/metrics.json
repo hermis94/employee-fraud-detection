@@ -1,0 +1,9 @@
+{
+  "dataset": "synthetic_employee_expense_claims",
+  "rows": 4500,
+  "flagged_claims": 203,
+  "flagged_rate": 0.04511111111111111,
+  "contamination_setting": 0.045,
+  "anomaly_score_threshold": 0.0,
+  "evaluation_note": "No ground-truth fraud labels; accuracy, precision, recall, and F1 are not available."
+}
